@@ -1,0 +1,73 @@
+{
+  "nome": "Jhonatan Camargo",
+  "slug": "jhonatan-camargo",
+  "negocio": "Portfólio pessoal de desenvolvedor Full Stack | AI Agents & Automation | DevOps & Infrastructure",
+  "publico": "Recrutadores, empresas de tecnologia, equipes de desenvolvimento, parceiros técnicos e clientes de projetos personalizados. Cidade Ocidental, Goiás. Remoto, projetos nacionais.",
+  "identidade": {
+    "cores": {
+      "fundo": "#080D18",
+      "superficie": "#111C30",
+      "texto": "#F1F5F9",
+      "texto_suave": "#94A3B8",
+      "acento": "#2563EB",
+      "acento_claro": "#38BDF8"
+    },
+    "fontes": {
+      "titulo": "Space Grotesk",
+      "texto": "Inter",
+      "codigo": "JetBrains Mono"
+    },
+    "clima": ["tecnológico", "sofisticado", "minimalista", "futurista", "cinematográfico"],
+    "tema": "escuro",
+    "proibido": ["cor verde em qualquer parte", "marca Natela Informática como identidade principal"]
+  },
+  "logo": "",
+  "logo_obs": "Sem logo. Nome JHONATAN CAMARGO em tipografia + monograma JC opcional.",
+  "copy": {
+    "frase_abertura": "Do código à infraestrutura. Da automação à inteligência artificial.",
+    "titulo_profissional": "Full Stack Developer | AI Agents | Automation | DevOps",
+    "hero": "Desenvolvo sistemas, integro tecnologias e construo automações inteligentes.",
+    "botoes": ["Explorar projetos", "Conhecer minhas habilidades", "GitHub", "Entrar em contato"],
+    "diferenciais": [
+      "Desenvolvimento Full Stack e integração de sistemas",
+      "Criação de agentes de IA e automações",
+      "Utilização de Claude Code, Codex e Agent SDKs",
+      "Desenvolvimento orientado por especificações e testes",
+      "Conhecimento de infraestrutura e implantação",
+      "Integração de modelos de IA com sistemas empresariais",
+      "Automação de testes e processos com Python e Playwright",
+      "Experiência em CRM, ERP e plataformas SaaS"
+    ],
+    "textos_prontos": "Ver brief.md (briefing completo do usuário, fonte de toda a copy).",
+    "depoimentos_reais": []
+  },
+  "regras": [
+    "Nunca usar o título 'Engenheiro de Software'",
+    "Não inventar certificações, clientes, resultados, métricas ou depoimentos",
+    "Não apresentar cursos como concluídos sem documento",
+    "Não citar instituições de ensino na apresentação principal",
+    "Só experiências e formações de tecnologia",
+    "LangChain, LangGraph, AutoGen e Semantic Kernel só como 'em exploração'",
+    "Português brasileiro, linguagem humana, profissional e objetiva"
+  ],
+  "referencias": ["https://linear.app", "https://vercel.com", "https://www.framer.com", "https://activetheory.net", "https://www.apple.com"],
+  "whatsapp": {
+    "numero": "5561996085789",
+    "mensagem": "Olá, Jhonatan! Conheci seu portfólio e gostaria de conversar sobre uma oportunidade profissional ou projeto de desenvolvimento.",
+    "texto_botao": "Vamos conversar"
+  },
+  "email_contato": "jhonatancamargo121@gmail.com",
+  "formulario": ["Nome", "E-mail", "Empresa (opcional)", "Assunto", "Mensagem"],
+  "github": "https://github.com/jhonatancamargo121",
+  "linkedin": "https://www.linkedin.com/in/jhonatan-santos-de-camargo-a4a388127/",
+  "secoes": [
+    "home", "sobre mim", "skills & tech stack", "ai development workflow", "autonomous ai agents",
+    "machine learning & deep learning", "projetos", "integrações", "devops & infraestrutura",
+    "certificações", "experiência em tecnologia", "github", "contato"
+  ],
+  "conceito": "Um sinal de luz azul que sai da tela, corre pelos cabos e chega ao rack: do código à infraestrutura.",
+  "modelos": {
+    "video": "google/veo-3.1",
+    "imagem": "google/gemini-3-pro-image"
+  }
+}
